@@ -30,6 +30,38 @@
       "choices": ["111", "119", "220", "150"],
       "answer": 1,
       "difficulty" : "Medium"
+    },
+    {
+      "question": "When a parabola represented by the equation y - 2x 2 = 8 x + 5 is translated 3 units to the left and 2 units up, the new parabola has its vertex at ",
+      "choices": ["(-1, -1) ", "(-5,-5) ","(-1,-3)", "(-2,-3)  "],
+      "answer": 0,
+      "difficulty" : "Medium"
+    },
+     {
+      "question": "If Logx (1 / 8) = - 3 / 2, then x is equal to ",
+      "choices": ["-4 ", "4 ","1/4", "10  "],
+      "answer": 1,
+      "difficulty" : "Hard"
+    },
+     {
+      "question": "20 % of 2 is equal to",
+      "choices": ["20 ", "4 ","0.4", "0.04  "],
+      "answer": 2,
+      "difficulty" : "Hard"
+    },
+    
+     {
+      "question": "The period of 2 sin x cos x is"
+      "choices": ["0.057", "0.478 ","0.001", "0 "],
+      "answer": 0,
+      "difficulty" : "Hard"
+    },
+    
+     {
+      "question": "f is a function such that f(x) < 0. The graph of the new function g defined by g(x) = | f(x) | is a reflection of the graph of f  ",
+      "choices": ["on the y axis", "on the x axis ","on the line y = x", "on the line y = -x "],
+      "answer": 1,
+      "difficulty" : "Hard"
     }
   ],
   "History": [
@@ -45,5 +77,83 @@
       "answer": 1,
       "difficulty" : "Easy"
     },
+    {
+      "question": "The famous Gayatrimantra is addressed to ",
+      "choices": ["Indra ", "Varuna ","Pashupati", "Savita"],
+      "answer": 3,
+      "difficulty" : "Easy"
+    },
+     {
+      "question": "Two highest gods in the Vedic religion were ",
+      "choices": ["Agni and Savitri ", "Vishnu and Mitra ","Indra and Varuna", "Surya and Pushan "],
+      "answer": 2,
+      "difficulty" : "Easy"
+    },
+     {
+      "question": "Division of the Vedic society into four classes is clearly mentioned in the ",
+      "choices": ["Yajurveda ", "Purusa-suka of Rigveda ","Upanishads", "Shatapatha Brahmana "],
+      "answer": 1,
+      "difficulty" : "Easy"
+    },
+     {
+      "question": "This Vedic God was 'a breaker of the forts' and also a 'war god' ",
+      "choices": ["Indra ", "Yama ","Marut", "Varuna "],
+      "answer": 0,
+      "difficulty" : "Medium"
+    },
+     {
+      "question": "The harappan or Indus Valley Civilisation flourished during the ____ age ",
+      "choices": ["Megalithic ", "Paleolithic ","Neolithic", "Chalcolithic "],
+      "answer": 1,
+      "difficulty" : "Medium"
+    },
+     {
+      "question": "The first metal to be extensively used by the people in India was ",
+      "choices": ["Bronze ", "Copper ","Iron", "Tin  "],
+      "answer": 1,
+      "difficulty" : "Medium"
+    },
+     {
+      "question": " Which of the follwing civilisations is net associated with the Harappan Civilisation?",
+      "choices": ["Mesopotamian ", "Egyptian ","Sumerian", "Chinese  "],
+      "answer": 3,
+      "difficulty" : "Medium"
+    },
+     {
+      "question": "The Indus or Harappan Civilisation is distinguished from the other contemporary civilisation by its ",
+      "choices": ["town planning", "underground drainage system ","uniformity of weights and measures", "large agricultural surplus "],
+      "answer": 1,
+      "difficulty" : "Medium"
+    },
+     {
+      "question": "Cereal(s) grown by the people of the Harappan Civilisation was/were ",
+      "choices": ["Wheat ", "Rice ","Millet", "All the above "],
+      "answer": 3,
+      "difficulty" : "Hard"
+    },
+     {
+      "question": "The utensils of the INdus Valley people were mainly made of  ",
+      "choices": ["clay ", "copper ","bronze", "brass  "],
+      "answer": 0,
+      "difficulty" : "Hard"
+    },
+     {
+      "question": "Which of the following metals was not known to the Indus valley people? ",
+      "choices": ["gold ", "silver ","copper", "iron  "],
+      "answer": 3,
+      "difficulty" : "Hard"
+    },
+     {
+      "question": "The most common animal figure found at all the Harappan sites is  ",
+      "choices": ["unihorn bull ", "cow ","bull", "tiger "],
+      "answer": 0,
+      "difficulty" : "Hard"
+    },
+     {
+      "question": "The term Aryan, Indo-Aryan or Indo-European denotes a ____ concept? ",
+      "choices": ["Linguistic ", "Racial ","Religious", "Cultural  "],
+      "answer": 0,
+      "difficulty" : "Hard"
+    }
   ]
 }
